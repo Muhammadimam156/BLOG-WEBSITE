@@ -69,8 +69,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or feedback, feel free to reach out:
 
 - **Email**: imamaliqadri5@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-imam-6206b6273/)
-- **GitHub**: [Your GitHub Profile](https://github.com/Muhammadimam156/)
+- **LinkedIn**: [ LinkedIn Profile](https://www.linkedin.com/in/muhammad-imam-6206b6273/)
+- **GitHub**: [ GitHub Profile](https://github.com/Muhammadimam156/)
 
 ---
 

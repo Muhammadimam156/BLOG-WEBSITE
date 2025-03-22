@@ -43,7 +43,7 @@ Welcome to **My Professional Blog**, a fully responsive and feature-rich blog we
 
 ## **Live Demo**
 
-Check out the live demo of the project here: [Live Demo Link]()
+Check out the live demo of the project here: [Live Demo Link](https://muhammadimam156.github.io/BLOG-WEBSITE/)
 
 ---
 

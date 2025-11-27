@@ -30,6 +30,9 @@ newsletterForm.addEventListener('submit', (e) => {
 });
 
 
+//mongo add add comment
+
+
 function addComment() {
   const commentInput = document.getElementById('comment-input');
   const commentSection = document.getElementById('comment-section');

@@ -4,7 +4,7 @@ toggleButton.addEventListener('click', () => {
   document.body.classList.toggle('dark-mode');
 });
 
-
+// is function ki madad say post ka filter kam krta ha 
 function filterPosts() {
   const searchQuery = document.getElementById('search-bar').value.toLowerCase();
   const posts = document.querySelectorAll('.post');
